@@ -21,17 +21,6 @@ I build the systems that connect business tools: workflow automation, API integr
 **Frontend & data:** HTML/CSS · Chart.js
 **AI:** Claude API (tool use, web search) in automation workflows
 
-## Projects
-
-Work for my employer is proprietary, so the projects below are clean-room rebuilds with synthetic data that show the same patterns.
-
-| Project | What it shows |
-|---|---|
-| _coming soon_ | CRM analytics dashboard |
-| _coming soon_ | Bulk email service with bounce handling and unsubscribe |
-| _coming soon_ | Document generation pipeline (DOCX/PDF) |
-| _coming soon_ | n8n + Claude API news-curation workflow |
-
 ## Background
 
 - Business degree; I've been into computers since I started modding games and reading software code as a kid
